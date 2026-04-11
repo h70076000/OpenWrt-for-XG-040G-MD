@@ -90,7 +90,7 @@ echo "Done removing sing-box from feeds"
 UPDATE_PACKAGE "homeproxy" "immortalwrt/homeproxy" "master"
 
 # Argon 主题
-UPDATE_PACKAGE "luci-theme-argon" "jerrykuku/luci-theme-argon" "master"
+UPDATE_PACKAGE "luci-theme-argon" "jerrykuku/luci-theme-hxzn" "master"
 UPDATE_PACKAGE "luci-app-argon-config" "jerrykuku/luci-app-argon-config" "master"
 
 # 修改 LuCI 默认主题为 Argon（保留 bootstrap 包可共存）
